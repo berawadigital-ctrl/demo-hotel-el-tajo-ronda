@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-el-tajo-ronda",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T10:48:00+01:00",
+ "updated_at": "2026-11-02T11:10:00+01:00",
+ "business": {
+  "name": "Hotel El Tajo",
+  "legal_name": "Alojamientos Turísticos El Tajo, S.L., CIF B93658730 (aviso legal y pie de su web)",
+  "registry_ids": [
+   "B93658730"
+  ],
+  "url": "https://www.hoteleltajo.com/es",
+  "domain": "hoteleltajo.com",
+  "municipality": "Ronda",
+  "province": "Málaga",
+  "address": "Calle Cruz Verde, 7 · 29400 Ronda",
+  "phones": [
+   "+34 952 87 40 40"
+  ],
+  "emails": [
+   "reservas@hoteleltajo.com"
+  ],
+  "sector": "hotel con spa en el centro de Ronda"
+ },
+ "rating": {
+  "value": 4.3,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/search/Hotel+El+Tajo+Ronda?hl=es",
+  "date": "2026-10-30",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://www.hoteleltajo.com/es",
+  "note": "su web no tiene URL directa de motor: el buscador de reservas (obehotel) va incrustado en la propia pagina (¿Cuándo? ¿Cómo? Buscar) y su boton Reservar no lleva a otra URL; el boton Reservar de la demo lleva a https://www.hoteleltajo.com/es (es) y /en (en/fr/de), HTTP 200 los dos (02/11/2026 10:58)."
+ },
+ "audit_original": {
+  "url": "https://www.hoteleltajo.com/es",
+  "date": "2026-11-02T10:49:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
