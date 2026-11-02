@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-el-tajo-ronda",
+ "maps": {
+  "fecha": "2026-10-30T08:44:22+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel El Tajo & SPA",
+  "nota": 4.3,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/search/Hotel+El+Tajo+Ronda",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-30T08:44:22+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "ALOJAMIENTOS TURÍSTICOS EL TAJO, S.L.",
+  "cif": "B93658730",
+  "fuente": "https://www.hoteleltajo.com/es/contactar",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal y pie de hoteleltajo.com: Alojamientos Turísticos El Tajo, S.L. (B93658730); un solo hotel"
+ }
+}

@@ -1,0 +1,583 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-el-tajo-ronda",
+ "source_site": "https://www.hoteleltajo.com/es",
+ "source_read_at": "2026-11-02T10:49:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "doble",
+     "triple",
+     "cuadruple",
+     "individual"
+    ],
+    "en": [
+     "which rooms",
+     "room types",
+     "double",
+     "triple",
+     "quadruple",
+     "single"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "double",
+     "triple",
+     "quadruple",
+     "individuelle"
+    ],
+    "de": [
+     "welche zimmer",
+     "zimmertypen",
+     "doppelzimmer",
+     "dreibett",
+     "vierbett",
+     "einzelzimmer"
+    ]
+   },
+   "a": {
+    "es": "Tiene 54 habitaciones: Doble Superior, Doble Deluxe, Básica, Individual, Doble de dos camas, Doble con supletoria, Triple familiar (2 adultos + 1 niño) y Cuádruple (4 adultos).",
+    "en": "It has 54 rooms: Superior Double, Deluxe Double, Basic, Single, Twin, Double with extra bed, Family Triple (2 adults + 1 child) and Quadruple (4 adults).",
+    "fr": "Il compte 54 chambres : Double Supérieure, Double Deluxe, Basique, Individuelle, Double à deux lits, Double avec lit d’appoint, Triple familiale (2 adultes + 1 enfant) et Quadruple (4 adultes).",
+    "de": "Es hat 54 Zimmer: Doppelzimmer Superior, Doppelzimmer Deluxe, Basic, Einzelzimmer, Zweibettzimmer, Doppelzimmer mit Zustellbett, Familien-Dreibettzimmer (2 Erwachsene + 1 Kind) und Vierbettzimmer (4 Erwachsene)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "cuenta con 54 habitaciones acogedoras"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/habitaciones",
+     "quote": "Habitación Triple Familiar (2 adultos + 1 niño)"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/habitaciones",
+     "quote": "Habitación Cuádruple (4 adultos)"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/habitaciones",
+     "quote": "Habitación Doble Deluxe (2 personas)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "tienen las habitaciones",
+     "wifi",
+     "aire acondicionado",
+     "calefaccion",
+     "caja fuerte",
+     "television"
+    ],
+    "en": [
+     "include",
+     "wifi",
+     "air conditioning",
+     "heating",
+     "safe",
+     " tv"
+    ],
+    "fr": [
+     "comprennent",
+     "wifi",
+     "climatisation",
+     "chauffage",
+     "coffre",
+     "television"
+    ],
+    "de": [
+     "bieten die zimmer",
+     "wlan",
+     "klimaanlage",
+     "heizung",
+     "safe",
+     "fernseh"
+    ]
+   },
+   "a": {
+    "es": "Todas tienen aire acondicionado/calefacción, TV de plasma HD, teléfono (solo llamadas interiores), escritorio, caja fuerte y wifi gratis, con baño completo con ducha, toallas, secador y gel y champú.",
+    "en": "All have air conditioning/heating, HD plasma TV, telephone (internal calls only), desk, safe and free wifi, with a full bathroom with shower, towels, hairdryer, shower gel and shampoo.",
+    "fr": "Toutes ont climatisation/chauffage, TV plasma HD, téléphone (appels internes uniquement), bureau, coffre-fort et wifi gratuit, avec salle de bains complète : douche, serviettes, sèche-cheveux, gel douche et shampooing.",
+    "de": "Alle haben Klimaanlage/Heizung, HD-Plasma-TV, Telefon (nur interne Anrufe), Schreibtisch, Safe und kostenloses WLAN sowie ein komplettes Bad mit Dusche, Handtüchern, Föhn, Duschgel und Shampoo."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es/habitaciones",
+     "quote": "Todas las habitaciones incluyen aire acondicionado/calefacción, TV plasma HD, teléfono (sólo llamadas interiores), escritorio, caja fuerte y wifi gratis. Baño completo, con ducha, toallas, secador de pelo y dispensadores gel y champú (primeras marcas)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "stationn",
+     "voiture"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     " auto"
+    ]
+   },
+   "a": {
+    "es": "Sí, tienen parking privado, uno de los pocos del centro. Necesita reserva previa y tiene coste adicional; consúltalo al reservar.",
+    "en": "Yes, they have private parking, one of the few in the centre. It requires prior booking and has an extra cost; check when booking.",
+    "fr": "Oui, ils ont un parking privé, l’un des rares du centre. Réservation préalable nécessaire et coût supplémentaire ; à vérifier lors de la réservation.",
+    "de": "Ja, es gibt einen Privatparkplatz, einen der wenigen im Zentrum. Voranmeldung nötig, gegen Aufpreis; bitte bei der Buchung erfragen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "Parking privado (necesaria reserva previa)"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "uno de los pocos disponibles en el centro"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "spa",
+   "keys": {
+    "es": [
+     "spa",
+     "piscina",
+     "jacuzzi",
+     "circuito"
+    ],
+    "en": [
+     "spa",
+     "pool",
+     "jacuzzi",
+     "wellness"
+    ],
+    "fr": [
+     "spa",
+     "piscine",
+     "jacuzzi",
+     "bien-etre"
+    ],
+    "de": [
+     "spa",
+     "pool",
+     "schwimmbad",
+     "whirlpool",
+     "wellness"
+    ]
+   },
+   "a": {
+    "es": "El spa tiene piscina climatizada con tumbonas subacuáticas, cuellos de cisne y jacuzzi, además de vaporarium, duchas de contraste, camas térmicas y pediluvio. Es solo para huéspedes mayores de 16 años, con coste adicional, y se reserva en recepción al menos una hora antes. Horario: de 10:00 a 14:00 y de 17:00 a 21:00.",
+    "en": "The spa has a heated pool with underwater loungers, swan-neck jets and jacuzzi, plus vaporarium, contrast showers, heated beds and a foot bath. Guests over 16 only, at an extra cost, booked at reception at least one hour ahead. Hours: 10:00 to 14:00 and 17:00 to 21:00.",
+    "fr": "Le spa a une piscine chauffée avec transats immergés, cols de cygne et jacuzzi, ainsi qu’un vaporarium, des douches à contraste, des lits chauffants et un pédiluve. Réservé aux clients de plus de 16 ans, avec supplément, à réserver à la réception au moins une heure avant. Horaires : de 10:00 à 14:00 et de 17:00 à 21:00.",
+    "de": "Das Spa hat einen beheizten Pool mit Unterwasserliegen, Schwanenhalsdüsen und Whirlpool sowie Dampfbad, Wechselduschen, Wärmeliegen und Fußbad. Nur für Gäste ab 16 Jahren, gegen Aufpreis, Reservierung an der Rezeption mindestens eine Stunde vorher. Zeiten: 10:00 bis 14:00 und 17:00 bis 21:00."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es/spa",
+     "quote": "contamos con una gran piscina climatizada con tumbonas subacuáticas, cuellos de cisne y jacuzzi"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/spa",
+     "quote": "contamos además con vaporarium, duchas de contraste e hidromasaje, camas térmicas y pediluvio"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/spa",
+     "quote": "El acceso será sólo y exclusivamente para huéspedes del hotel mayores de 16 años de edad"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/spa",
+     "quote": "La reserva se realiza en la recepción del hotel mínimo una hora antes"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/spa",
+     "quote": "Nuestro horario será de Lunes a Domingos de 10:00h a 14:00h y de 17:00h a 21:00h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar",
+     "sin gluten"
+    ],
+    "en": [
+     "breakfast",
+     "gluten"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "gluten"
+    ],
+    "de": [
+     "fruhstuck",
+     "gluten"
+    ]
+   },
+   "a": {
+    "es": "Sí, desayuno buffet de 7:30 a 11:00, con desayuno sin gluten bajo petición.",
+    "en": "Yes, a buffet breakfast from 7:30 to 11:00, with gluten-free breakfast on request.",
+    "fr": "Oui, petit-déjeuner buffet de 7:30 à 11:00, sans gluten sur demande.",
+    "de": "Ja, Frühstücksbuffet von 7:30 bis 11:00, glutenfrei auf Anfrage."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es/restaurante",
+     "quote": "podrá disfrutar de un desayuno buffet"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/restaurante",
+     "quote": "Disponemos de desayuno sin gluten bajo petición. Abierto desde: 07.30H. a las 11.00H."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "solarium",
+   "keys": {
+    "es": [
+     "solarium",
+     "azotea",
+     "terraza",
+     "tomar el sol"
+    ],
+    "en": [
+     "solarium",
+     "rooftop",
+     "terrace",
+     "sunbath"
+    ],
+    "fr": [
+     "solarium",
+     "toit",
+     "terrasse",
+     "soleil"
+    ],
+    "de": [
+     "solarium",
+     "dachterrasse",
+     "terrasse",
+     "sonne"
+    ]
+   },
+   "a": {
+    "es": "Sí: el solárium está en la azotea (4ª planta), con 2 duchas, 7 hamacas y mesas. Horario de 9:00 a 22:00.",
+    "en": "Yes: the solarium is on the rooftop (4th floor), with 2 showers, 7 sun loungers and tables. Open 9:00 to 22:00.",
+    "fr": "Oui : le solarium est sur le toit (4e étage), avec 2 douches, 7 transats et des tables. Ouvert de 9:00 à 22:00.",
+    "de": "Ja: Das Solarium liegt auf dem Dach (4. Stock), mit 2 Duschen, 7 Liegen und Tischen. Geöffnet von 9:00 bis 22:00."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es/solarium",
+     "quote": "en nuestra terraza, situada en la azotea del hotel, en la 4ª planta. Contamos con 2 duchas y 7 hamacas"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/solarium",
+     "quote": "Horario 09.00am a 22.00pm"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "direccion",
+     "ubicacion",
+     "puente nuevo"
+    ],
+    "en": [
+     "where are",
+     "address",
+     "location",
+     "puente nuevo"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe",
+     "puente nuevo"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse",
+     "puente nuevo"
+    ]
+   },
+   "a": {
+    "es": "Está en la Calle Cruz Verde, 7, 29400 Ronda (Málaga), en pleno centro, a unos pasos de la Calle La Bola y del Puente Nuevo.",
+    "en": "It is at Calle Cruz Verde, 7, 29400 Ronda (Málaga), right in the centre, a few steps from Calle La Bola and the Puente Nuevo.",
+    "fr": "L’hôtel se trouve Calle Cruz Verde, 7, 29400 Ronda (Malaga), en plein centre, à quelques pas de la Calle La Bola et du Puente Nuevo.",
+    "de": "Das Hotel liegt in der Calle Cruz Verde, 7, 29400 Ronda (Málaga), mitten im Zentrum, wenige Schritte von der Calle La Bola und der Puente Nuevo."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es/contactar",
+     "quote": "Calle Cruz Verde, 7, 29400 Ronda (Málaga), España"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "a solo unos pasos de la Calle La Bola y del icónico Puente Nuevo"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar con el buscador de reservas de su web (botón Reservar), escribir a reservas@hoteleltajo.com o llamar al 952 87 40 40. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book with the booking search on their website (Book button), email reservas@hoteleltajo.com or call +34 952 87 40 40. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver via le moteur de leur site (bouton Réserver), écrire à reservas@hoteleltajo.com ou appeler le +34 952 87 40 40. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungssuche ihrer Website buchen (Schaltfläche Buchen), an reservas@hoteleltajo.com schreiben oder +34 952 87 40 40 anrufen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "¿CUÁNDO? ¿CÓMO? CÓDIGO PROMOCIONAL BUSCAR"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/contactar",
+     "quote": "(+34) 952 87 40 40 – reservas@hoteleltajo.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "recepcion",
+   "keys": {
+    "es": [
+     "recepcion",
+     "24 horas"
+    ],
+    "en": [
+     "reception",
+     "24 hours"
+    ],
+    "fr": [
+     "reception"
+    ],
+    "de": [
+     "rezeption",
+     "rund um die uhr"
+    ]
+   },
+   "a": {
+    "es": "Sí, la recepción está abierta 24 horas.",
+    "en": "Yes, reception is open 24 hours.",
+    "fr": "Oui, la réception est ouverte 24 h/24.",
+    "de": "Ja, die Rezeption ist rund um die Uhr (24 Stunden) besetzt."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "Recepción 24 horas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "que ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "visitar",
+     "monumento",
+     "puente",
+     "excursion"
+    ],
+    "en": [
+     "what to see",
+     "visit",
+     "monument",
+     "bridge",
+     "excursion"
+    ],
+    "fr": [
+     "que voir",
+     "visiter",
+     "monument",
+     "pont",
+     "excursion"
+    ],
+    "de": [
+     "besichtig",
+     "sehenswurd",
+     "denkmal",
+     "brucke",
+     "ausflug"
+    ]
+   },
+   "a": {
+    "es": "En Ronda destacan el Puente Nuevo sobre el Tajo, el Puente Viejo, el Palacio de Mondragón y el Palacio del Rey Moro, los Baños árabes, los Jardines de Cuenca y la Plaza de Toros de la Real Maestranza.",
+    "en": "Highlights in Ronda include the Puente Nuevo over the Tajo, the Puente Viejo, the Palacio de Mondragón and the Palacio del Rey Moro, the Arab Baths, the Jardines de Cuenca and the Real Maestranza bullring.",
+    "fr": "À Ronda : le Puente Nuevo sur le Tajo, le Puente Viejo, le Palacio de Mondragón et le Palacio del Rey Moro, les bains arabes, les Jardines de Cuenca et les arènes de la Real Maestranza.",
+    "de": "Sehenswert in Ronda: die Puente Nuevo über dem Tajo, die Puente Viejo, der Palacio de Mondragón und der Palacio del Rey Moro, die Arabischen Bäder, die Jardines de Cuenca und die Stierkampfarena der Real Maestranza."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es/entorno",
+     "quote": "Puente Nuevo sobre el Tajo, símbolo de la ciudad. Puente Viejo de origen árabe"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/entorno",
+     "quote": "Palacio de Mondragón y Palacio del Rey Moro"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es/entorno",
+     "quote": "Baños árabes, Jardines de Cuenca y la Plaza de Toros de la Real Maestranza"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: 952 87 40 40. Correo: reservas@hoteleltajo.com.",
+    "en": "Phone: +34 952 87 40 40. Email: reservas@hoteleltajo.com.",
+    "fr": "Téléphone : +34 952 87 40 40. E-mail : reservas@hoteleltajo.com.",
+    "de": "Telefon: +34 952 87 40 40. E-Mail: reservas@hoteleltajo.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es/contactar",
+     "quote": "(+34) 952 87 40 40 – reservas@hoteleltajo.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "bicicletas",
+   "keys": {
+    "es": [
+     "bici",
+     "gimnasio"
+    ],
+    "en": [
+     "bike",
+     "bicycle",
+     "gym"
+    ],
+    "fr": [
+     "velo",
+     "salle de sport"
+    ],
+    "de": [
+     "fahrrad",
+     "fitness"
+    ]
+   },
+   "a": {
+    "es": "Sí: tienen bicicletas gratuitas según disponibilidad, y también gimnasio.",
+    "en": "Yes: free bikes subject to availability, and a gym too.",
+    "fr": "Oui : vélos gratuits selon disponibilité, et aussi une salle de sport.",
+    "de": "Ja: kostenlose Fahrräder je nach Verfügbarkeit und auch einen Fitnessraum."
+   },
+   "sources": [
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "Bicicletas gratuitas (según disponibilidad)"
+    },
+    {
+     "url": "https://www.hoteleltajo.com/es",
+     "quote": "Spa & Solárium (Spa solo adultos) Gimnasio"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
