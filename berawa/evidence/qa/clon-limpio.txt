@@ -1,0 +1,12 @@
+HEAD 980caf262c66b1a1d5b33ca07472063b6acba785
+OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
+OK    tests_hotel_el_tajo_ronda: 4 idiomas + chatbot contra la base (HTTP)
+OK    a11y_test: axe-core + teclado (HTTP)
+OK    contrast_manual: contraste de nodos «incompletos» de axe
+OK    keys_test: claves del chat sin ambiguedad
+OK    sec_scan: revision estatica + CSP efectiva
+OK    tests_hotel_el_tajo_ronda por file://
+OK    a11y_test por file://
+
+8/8 comprobaciones OK · resultados en /tmp/clon-hotel-el-tajo-ronda/out
+run_checks exit 0

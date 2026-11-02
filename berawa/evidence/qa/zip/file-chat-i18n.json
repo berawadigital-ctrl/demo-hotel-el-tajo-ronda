@@ -1,0 +1,420 @@
+{
+ "url": "file:///tmp/zip-hotel-el-tajo-ronda/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 54 habitaciones: Doble Superior, Doble Deluxe, Básica, Individual, Doble de dos camas, Doble con supletoria, Triple familiar (2 adulto"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todas tienen aire acondicionado/calefacción, TV de plasma HD, teléfono (solo llamadas interiores), escritorio, caja fuerte y wifi gratis, co"
+    },
+    {
+     "q": "¿Tenéis parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, tienen parking privado, uno de los pocos del centro. Necesita reserva previa y tiene coste adicional; consúltalo al reservar."
+    },
+    {
+     "q": "¿Cómo es el spa?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El spa tiene piscina climatizada con tumbonas subacuáticas, cuellos de cisne y jacuzzi, además de vaporarium, duchas de contraste, camas tér"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, desayuno buffet de 7:30 a 11:00, con desayuno sin gluten bajo petición."
+    },
+    {
+     "q": "¿Tenéis solárium?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí: el solárium está en la azotea (4ª planta), con 2 duchas, 7 hamacas y mesas. Horario de 9:00 a 22:00."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Calle Cruz Verde, 7, 29400 Ronda (Málaga), en pleno centro, a unos pasos de la Calle La Bola y del Puente Nuevo."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar con el buscador de reservas de su web (botón Reservar), escribir a reservas@hoteleltajo.com o llamar al 952 87 40 40. Este a"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar con el buscador de reservas de su web (botón Reservar), escribir a reservas@hoteleltajo.com o llamar al 952 87 40 40. Este a"
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, la recepción está abierta 24 horas."
+    },
+    {
+     "q": "¿Qué ver en Ronda?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "En Ronda destacan el Puente Nuevo sobre el Tajo, el Puente Viejo, el Palacio de Mondragón y el Palacio del Rey Moro, los Baños árabes, los J"
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: 952 87 40 40. Correo: reservas@hoteleltajo.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Tenéis bicicletas?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: tienen bicicletas gratuitas según disponibilidad, y también gimnasio."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 87 40 40 · reservas@hoteleltajo.com."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 952 87 40 40 · reservas@hoteleltajo.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Tenéis parking?",
+    "¿Cómo es el spa?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 54 rooms: Superior Double, Deluxe Double, Basic, Single, Twin, Double with extra bed, Family Triple (2 adults + 1 child) and Quadrupl"
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All have air conditioning/heating, HD plasma TV, telephone (internal calls only), desk, safe and free wifi, with a full bathroom with shower"
+    },
+    {
+     "q": "Do you have parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, they have private parking, one of the few in the centre. It requires prior booking and has an extra cost; check when booking."
+    },
+    {
+     "q": "What is the spa like?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The spa has a heated pool with underwater loungers, swan-neck jets and jacuzzi, plus vaporarium, contrast showers, heated beds and a foot ba"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, a buffet breakfast from 7:30 to 11:00, with gluten-free breakfast on request."
+    },
+    {
+     "q": "Do you have a solarium?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes: the solarium is on the rooftop (4th floor), with 2 showers, 7 sun loungers and tables. Open 9:00 to 22:00."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle Cruz Verde, 7, 29400 Ronda (Málaga), right in the centre, a few steps from Calle La Bola and the Puente Nuevo."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book with the booking search on their website (Book button), email reservas@hoteleltajo.com or call +34 952 87 40 40. This assistant"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book with the booking search on their website (Book button), email reservas@hoteleltajo.com or call +34 952 87 40 40. This assistant"
+    },
+    {
+     "q": "Is reception open 24 hours?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, reception is open 24 hours."
+    },
+    {
+     "q": "What to see in Ronda?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Highlights in Ronda include the Puente Nuevo over the Tajo, the Puente Viejo, the Palacio de Mondragón and the Palacio del Rey Moro, the Ara"
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: +34 952 87 40 40. Email: reservas@hoteleltajo.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "Do you have bikes?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes: free bikes subject to availability, and a gym too."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 87 40 40 · reservas@hoteleltajo.com."
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 952 87 40 40 · reservas@hoteleltajo.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Do you have parking?",
+    "What is the spa like?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 54 chambres : Double Supérieure, Double Deluxe, Basique, Individuelle, Double à deux lits, Double avec lit d’appoint, Triple famil"
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Toutes ont climatisation/chauffage, TV plasma HD, téléphone (appels internes uniquement), bureau, coffre-fort et wifi gratuit, avec salle de"
+    },
+    {
+     "q": "Avez-vous un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, ils ont un parking privé, l’un des rares du centre. Réservation préalable nécessaire et coût supplémentaire ; à vérifier lors de la rés"
+    },
+    {
+     "q": "Comment est le spa ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Le spa a une piscine chauffée avec transats immergés, cols de cygne et jacuzzi, ainsi qu’un vaporarium, des douches à contraste, des lits ch"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, petit-déjeuner buffet de 7:30 à 11:00, sans gluten sur demande."
+    },
+    {
+     "q": "Avez-vous un solarium ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui : le solarium est sur le toit (4e étage), avec 2 douches, 7 transats et des tables. Ouvert de 9:00 à 22:00."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L’hôtel se trouve Calle Cruz Verde, 7, 29400 Ronda (Malaga), en plein centre, à quelques pas de la Calle La Bola et du Puente Nuevo."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via le moteur de leur site (bouton Réserver), écrire à reservas@hoteleltajo.com ou appeler le +34 952 87 40 40. Cet ass"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via le moteur de leur site (bouton Réserver), écrire à reservas@hoteleltajo.com ou appeler le +34 952 87 40 40. Cet ass"
+    },
+    {
+     "q": "La réception est-elle ouverte 24 h/24 ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, la réception est ouverte 24 h/24."
+    },
+    {
+     "q": "Que voir à Ronda ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "À Ronda : le Puente Nuevo sur le Tajo, le Puente Viejo, le Palacio de Mondragón et le Palacio del Rey Moro, les bains arabes, les Jardines d"
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : +34 952 87 40 40. E-mail : reservas@hoteleltajo.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Avez-vous des vélos ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui : vélos gratuits selon disponibilité, et aussi une salle de sport."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 87 40 40 · reservas@hoteleltajo.com."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 952 87 40 40 · reservas@hoteleltajo.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Avez-vous un parking ?",
+    "Comment est le spa ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 54 Zimmer: Doppelzimmer Superior, Doppelzimmer Deluxe, Basic, Einzelzimmer, Zweibettzimmer, Doppelzimmer mit Zustellbett, Familien-Dr"
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Alle haben Klimaanlage/Heizung, HD-Plasma-TV, Telefon (nur interne Anrufe), Schreibtisch, Safe und kostenloses WLAN sowie ein komplettes Bad"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Privatparkplatz, einen der wenigen im Zentrum. Voranmeldung nötig, gegen Aufpreis; bitte bei der Buchung erfragen."
+    },
+    {
+     "q": "Wie ist das Spa?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Das Spa hat einen beheizten Pool mit Unterwasserliegen, Schwanenhalsdüsen und Whirlpool sowie Dampfbad, Wechselduschen, Wärmeliegen und Fußb"
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, Frühstücksbuffet von 7:30 bis 11:00, glutenfrei auf Anfrage."
+    },
+    {
+     "q": "Gibt es ein Solarium?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja: Das Solarium liegt auf dem Dach (4. Stock), mit 2 Duschen, 7 Liegen und Tischen. Geöffnet von 9:00 bis 22:00."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Das Hotel liegt in der Calle Cruz Verde, 7, 29400 Ronda (Málaga), mitten im Zentrum, wenige Schritte von der Calle La Bola und der Puente Nu"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungssuche ihrer Website buchen (Schaltfläche Buchen), an reservas@hoteleltajo.com schreiben oder +34 952 87 40 40 an"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungssuche ihrer Website buchen (Schaltfläche Buchen), an reservas@hoteleltajo.com schreiben oder +34 952 87 40 40 an"
+    },
+    {
+     "q": "Ist die Rezeption rund um die Uhr besetzt?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja, die Rezeption ist rund um die Uhr (24 Stunden) besetzt."
+    },
+    {
+     "q": "Was kann man in Ronda besichtigen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sehenswert in Ronda: die Puente Nuevo über dem Tajo, die Puente Viejo, der Palacio de Mondragón und der Palacio del Rey Moro, die Arabischen"
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: +34 952 87 40 40. E-Mail: reservas@hoteleltajo.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Gibt es Fahrräder?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja: kostenlose Fahrräder je nach Verfügbarkeit und auch einen Fitnessraum."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 952 87 40 40 · reservas@hoteleltajo.com."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 952 87 40 40 · reservas@hoteleltajo.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Wie ist das Spa?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
