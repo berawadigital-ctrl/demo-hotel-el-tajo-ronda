@@ -1,0 +1,56 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hoteleltajo.com/es",
+ "read_at": "2026-11-02T10:49:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hoteleltajo.com/es",
+   "sha256": "513bdf4cfb8dc87502a28303b21ae9f807559f3fd62eee994923365654da6d81",
+   "chars": 7704
+  },
+  {
+   "url": "https://www.hoteleltajo.com/es/contactar",
+   "sha256": "b8eb0a4d796d2ea9e7b859c0fdae0418d5a9f0353962a79bfddfd2d60ce018fc",
+   "chars": 846
+  },
+  {
+   "url": "https://www.hoteleltajo.com/es/entorno",
+   "sha256": "72c5e4cdea451ceaf49da11b08610c3bdfb6138c89f737341805f4af3afcdbcf",
+   "chars": 5321
+  },
+  {
+   "url": "https://www.hoteleltajo.com/es/habitaciones",
+   "sha256": "b582fdda291d7fdb3dc125d3a4a3ef429db38bdbefb38004b968774a815e34af",
+   "chars": 6254
+  },
+  {
+   "url": "https://www.hoteleltajo.com/es/restaurante",
+   "sha256": "4055857abc31556ecbcd82e5d18038256f712cb8418b65a498925b8d1e8eef49",
+   "chars": 1238
+  },
+  {
+   "url": "https://www.hoteleltajo.com/es/solarium",
+   "sha256": "55ac7c53cbe8169892b0e0e30dd25e37570a264cfcf4486a09336ef482fcd4e0",
+   "chars": 1146
+  },
+  {
+   "url": "https://www.hoteleltajo.com/es/spa",
+   "sha256": "1ee9f0e8a0bb3faa2971d059ce163400ddbfbe9ff1dafdde572f4285ce687d34",
+   "chars": 2458
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hoteleltajo.com/es/actividades",
+  "https://www.hoteleltajo.com/es/client/sign-in",
+  "https://www.hoteleltajo.com/es/galeria",
+  "https://www.hoteleltajo.com/es/hotel-el-tajo-ronda-10-descuento-en-reserva-web",
+  "https://www.hoteleltajo.com/es/hotel-el-tajo-ronda-20-descuento-en-reserva-web",
+  "https://www.hoteleltajo.com/es/hotel-el-tajo-ronda-30-descuento-en-reserva-web",
+  "https://www.hoteleltajo.com/es/hotel-el-tajo-ronda-oferta",
+  "https://www.hoteleltajo.com/es/oferta-28-ad-hotel-el-tajo",
+  "https://www.hoteleltajo.com/es/oferta-hotel-el-tajo-ronda",
+  "https://www.hoteleltajo.com/es/ofertas",
+  "https://www.hoteleltajo.com/es/resenas"
+ ]
+}
